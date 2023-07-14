@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-```
+![LinkedIn cover - 1](https://github.com/WFernandoc07/WFernandoc07/assets/75816978/6d62074a-7e99-46c0-b437-92b33d8eab54)
+
+```![Uploading LinkedIn cover - 1.png…]()
+
 <!--
 **WFernandoc07/WFernandoc07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

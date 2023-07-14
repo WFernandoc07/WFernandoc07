@@ -11,8 +11,7 @@ Hello, I am William Castrejón a fullstack developer and datascientis from Cajam
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...### 🛠 技术栈 | Tech Stack
-## Tech Stack
+## ⚡ Tech Stack
 - 💻 &#160;![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)

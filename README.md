@@ -1,15 +1,7 @@
-### Hi there 👋
-
 ![LinkedIn cover - 1](https://github.com/WFernandoc07/WFernandoc07/assets/75816978/6d62074a-7e99-46c0-b437-92b33d8eab54)
 
-```![Uploading LinkedIn cover - 1.png…]()
+Welcome to my Wolrd! .![WorldEarthGIF](https://github.com/WFernandoc07/WFernandoc07/assets/75816978/ed1540f9-9458-40b2-ad65-590c818cf8ed)
 
-<!--
-**WFernandoc07/WFernandoc07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-```
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

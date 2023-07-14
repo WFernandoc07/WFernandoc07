@@ -1,6 +1,6 @@
 ![LinkedIn cover - 1](https://github.com/WFernandoc07/WFernandoc07/assets/75816978/6d62074a-7e99-46c0-b437-92b33d8eab54)
 
-Welcome to my Wolrd! .![WorldEarthGIF](https://github.com/WFernandoc07/WFernandoc07/assets/75816978/ed1540f9-9458-40b2-ad65-590c818cf8ed)
+Welcome to my Wolrd! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
 - 🔭 I’m currently working on ...

@@ -1,7 +1,8 @@
 ![LinkedIn cover - 1](https://github.com/WFernandoc07/WFernandoc07/assets/75816978/6d62074a-7e99-46c0-b437-92b33d8eab54)
 
-Welcome to my Wolrd! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Welcome to my Wolrd! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
+Hello, I am William Castrejón a fullstack developer and datascientis from Cajamarca, Perú.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

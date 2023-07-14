@@ -2,11 +2,11 @@
 
 ## Welcome to my Wolrd! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-Hello, I am William Castrejón a fullstack developer and datascientis from Cajamarca, Perú.
+Hello, I am William Castrejón [![](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wfernandoc07) a fullstack developer and datascientis from Cajamarca, Perú.
 
 - 🔭 I’m currently working on ...
 ## 🌱 I’m currently learning ...
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wfernandoc07)
+
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

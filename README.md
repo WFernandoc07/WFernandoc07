@@ -13,6 +13,9 @@ Hello, I am William Castrejón a fullstack developer and datascientis from Cajam
 - 💬 Ask me about ...
 ## 📫 How to reach me: ...
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wfernandoc07)
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wcastrejonc17_1@unc.edu.pe)
+
 - 😄 Pronouns: ...
 ## ⚡ Tech Stack
 - 💻 &#160;![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)

@@ -7,11 +7,13 @@ Hello, I am William Castrejón a Systems Engineering Bachelor⌨️👨‍🎓�
 ## 🔭 My Projects
 ### **Backend Projects**
 - API RENTAL CAR:
-  [appi-docs](https://drf-boilerplate-app.onrender.com/swagger-ui/)
-  [github-code](https://github.com/WFernandoc07/drf_boilerplate)
+  * [appi-docs](https://drf-boilerplate-app.onrender.com/swagger-ui/)
+  * [github-code](https://github.com/WFernandoc07/drf_boilerplate)
 
 ### **Frontend Projects**
-- [porjecto 1]()
+- **My Portfolio**
+  * [portfolio-deploy](https://williamcastrejon.vercel.app/)
+  * [github-code](https://github.com/WFernandoc07/bootcamp-frontend-g14/tree/main/semana_06/dia01_portafolio-terminado)
 
 ## 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on software developer or data scientist projects.

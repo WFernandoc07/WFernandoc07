@@ -2,7 +2,7 @@
 
 ## Welcome to my Wolrd! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-Hello, I am William Castrejón a Systems Engineering Bachelor and software developer and datascientis from Cajamarca, Perú.
+Hello, I am William Castrejón a Systems Engineering Bachelor⌨️ | Software developer💻 | Data scientist🔣 | I love creating innovative web applications👀and analyzing data.📈📊 from Cajamarca, Perú.
 
 - 🔭 I’m currently working on my own projects
 ## 🌱 I’m currently learning React

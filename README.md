@@ -4,10 +4,10 @@
 
 Hello, I am William Castrejón a Systems Engineering Bachelor⌨️👨‍🎓🎓 | Software Developer💻 | Data scientist🔣 | I love creating innovative web applications👀and analyzing data.📈📊 from Cajamarca, Perú.
 
-- 🔭 I’m currently working on my own projects
+## 🔭 My Projects
+- [porjecto 1]()
+
 ## 🌱 I’m currently learning React
-
-
 - 👯 I’m looking to collaborate on software developer or data scientist projects.
 - 💬 Ask me about [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wfernandoc07)
 ## 📫 How to reach me: ...

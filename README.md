@@ -2,10 +2,10 @@
 
 ## Welcome to my Wolrd! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-Hello, I am William Castrejón a fullstack developer and datascientis from Cajamarca, Perú.
+Hello, I am William Castrejón a Systems Engineering Bachelor and software developer and datascientis from Cajamarca, Perú.
 
-- 🔭 I’m currently working on ...
-## 🌱 I’m currently learning ...
+- 🔭 I’m currently working on my own projects
+## 🌱 I’m currently learning React
 
 
 - 👯 I’m looking to collaborate on ...

@@ -15,8 +15,8 @@ Hello, I am William Castrejón a Systems Engineering Bachelor⌨️👨‍🎓�
   * [portfolio-deploy](https://williamcastrejon.vercel.app/)
   * [github-code](https://github.com/WFernandoc07/bootcamp-frontend-g14/tree/main/semana_06/dia01_portafolio-terminado)
 - **Huddle Landing Page - Frontend Mentor Challenge**
- * [huddle-landing-page-deloy](https://huddle-landing-page-phi-steel.vercel.app/)
- * [github-code](https://github.com/WFernandoc07/fronted-exercises/tree/main/01-huddle-landing-page-curved/)
+  * [huddle-landing-page-deloy](https://huddle-landing-page-phi-steel.vercel.app/)
+  * [github-code](https://github.com/WFernandoc07/fronted-exercises/tree/main/01-huddle-landing-page-curved/)
 
 ## 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on software developer or data scientist projects.
